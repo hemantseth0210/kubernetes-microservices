@@ -30,4 +30,4 @@ spec:
     - destination:
         host: customer.default.svc.cluster.local
         port:
-          number: 8082
+          number: 3080
